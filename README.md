@@ -6,7 +6,7 @@ After install golang open a console window and "go" to the folder <b>SRC</b> of 
  
 After this if you are windows some popup windows will open (your firewall) asking for permission to allow to run the application, please select *Allow access*.
 
-To test the application open your browser the next url:
+To test the application open in your browser the next url:
 
 http://localhost:9091/todo
 
