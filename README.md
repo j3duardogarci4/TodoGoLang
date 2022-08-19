@@ -9,3 +9,5 @@ After this if you are windows some popup windows will open (your firewall) askin
 To test the application open your browser the next url:
 
 http://localhost:9091/todo
+
+To stop the application press ctrl+c in the console window
